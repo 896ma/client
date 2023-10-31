@@ -1,1 +1,1 @@
-This is a new badge tutoria
+This is a new badge tutorial
